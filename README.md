@@ -10,8 +10,8 @@ Earning a Computer Science degree has allowed me to explore different branches o
 *   🖥️  See my portfolio at [Mohamed Cheour](http://mohamedcheour.sitew.ca/)
 *   ✉️  You can contact me at [moha.cheour@yahoo.fr](mailto:moha.cheour@yahoo.fr)
 *   🧠  I'm learning about Cybersecruity
-*   🤝  I'm open to collaborating on any projects that require software engineering and help make the world a better place for all humans.
-*   ⚡  I am an outdoors enthusiast passionate about music and photography.
+*   🤝  I'm open to collaborating on any projects that require software engineering and help make the world a better place for all humans
+*   ⚡  I am an outdoors enthusiast passionate about music and photography
 
 ### Skills
 
