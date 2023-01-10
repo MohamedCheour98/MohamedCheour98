@@ -4,7 +4,7 @@ Hi 👋 My name is Mohamed Cheour
 Software Engineer
 -----------------
 
-Earning a Computer Science degree has allowed me to explore different branches of software engineering. After acquiring hands-on experience of the different technologies used in Web and Mobile development, I was able to work on projects that implemented machine learning strategies and data science tools to solve real world problems. In the last year of my bachelor's degree at Cal Poly, a professor of mine has rooted in me a deep passion for low level programming. In fact, the more abstract and challenging things get, the more fun and enjoyable my work become.
+Earning a Computer Science degree has allowed me to explore different branches of software engineering. After acquiring hands-on experience of the different technologies used in Web and Mobile development, I was able to work on projects that implemented machine learning strategies and data science tools to solve real world problems. In the last year of my bachelor's degree at Cal Poly, a professor of mine has rooted in me a deep passion for low level programming. In fact, the more abstract and challenging things get, the more fun and enjoyable my work becomes. So, please challenge me with something you have.
 
 *   🌍  I'm based in California
 *   🖥️  See my portfolio at [Mohamed Cheour](http://mohamedcheour.sitew.ca/)
