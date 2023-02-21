@@ -8,7 +8,7 @@ Earning a Computer Science degree has allowed me to explore different branches o
 
 *   🌍  I'm based in California
 *   🖥️  See my portfolio at [Mohamed Cheour](http://mohamedcheour.sitew.ca/)
-*   ✉️  You can contact me at [moha.cheour@yahoo.fr](mailto:cheourmoha@gmail.com)
+*   ✉️  You can contact me at [cheourmoha@gmail.com](mailto:cheourmoha@gmail.com)
 *   🧠  I'm learning about Cybersecruity
 *   🤝  I'm open to collaborating on any projects that require software engineering and help make the world a better place for all humans
 *   ⚡  I am an outdoors enthusiast passionate about music and photography
